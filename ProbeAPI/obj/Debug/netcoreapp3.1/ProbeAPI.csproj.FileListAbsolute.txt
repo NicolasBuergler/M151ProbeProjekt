@@ -127,6 +127,13 @@ E:\OneDrive\GIBZ\Semester_2.2\M151\Probe API\M151ProbeProjekt\ProbeAPI\bin\Debug
 E:\OneDrive\GIBZ\Semester_2.2\M151\Probe API\M151ProbeProjekt\ProbeAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\OneDrive\GIBZ\Semester_2.2\M151\Probe API\M151ProbeProjekt\ProbeAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\OneDrive\GIBZ\Semester_2.2\M151\Probe API\M151ProbeProjekt\ProbeAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OneDrive\GIBZ\Semester_2.2\M151\Probe API\M151ProbeProjekt\ProbeAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OneDrive\GIBZ\Semester_2.2\M151\Probe API\M151ProbeProjekt\ProbeAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\OneDrive\GIBZ\Semester_2.2\M151\Probe API\M151ProbeProjekt\ProbeAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\OneDrive\GIBZ\Semester_2.2\M151\Probe API\M151ProbeProjekt\ProbeAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 E:\OneDrive\GIBZ\Semester_2.2\M151\Probe API\M151ProbeProjekt\ProbeAPI\obj\Debug\netcoreapp3.1\ProbeAPI.csproj.CoreCompileInputs.cache
 E:\OneDrive\GIBZ\Semester_2.2\M151\Probe API\M151ProbeProjekt\ProbeAPI\obj\Debug\netcoreapp3.1\ProbeAPI.MvcApplicationPartsAssemblyInfo.cs
 E:\OneDrive\GIBZ\Semester_2.2\M151\Probe API\M151ProbeProjekt\ProbeAPI\obj\Debug\netcoreapp3.1\ProbeAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\GIBZ\Semester_2.2\M151\Probe API\M151ProbeProjekt\ProbeAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\OneDrive\GIBZ\Semester_2.2\M151\Probe API\M151ProbeProjekt\ProbeAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\OneDrive\GIBZ\Semester_2.2\M151\Probe API\M151ProbeProjekt\ProbeAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
