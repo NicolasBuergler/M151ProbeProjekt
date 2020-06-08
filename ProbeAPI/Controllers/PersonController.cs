@@ -23,6 +23,7 @@ namespace ProbeAPI.Controllers
         //    return "Hans";
         //}
 
+        [HttpGet]
         public string AddPerson()
         {
             var person = new Person();
